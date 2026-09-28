@@ -9,6 +9,12 @@
       "subtitle": "Water buoy monitoring",
       "localizedDescription": "Live water-quality readings, captures, and insights from the Limnar buoy.",
       "iconURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/icon.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/screenshots/home.png",
+        "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/screenshots/data.png",
+        "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/screenshots/captures.png",
+        "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/screenshots/insights.png"
+      ],
       "versions": [
         {
           "version": "1.0.0",
