@@ -1,0 +1,24 @@
+{
+  "name": "Limnar Source",
+  "identifier": "com.yookuaseda.limnar.source",
+  "apps": [
+    {
+      "name": "Limnar",
+      "bundleIdentifier": "com.yookuaseda.limnar",
+      "developerName": "Yooku Anamuah-Mensah",
+      "subtitle": "Water buoy monitoring",
+      "localizedDescription": "Live water-quality readings, captures, and insights from the Limnar buoy.",
+      "iconURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-28T00:00:00Z",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Limnar-1.0.0.ipa",
+          "size": 5558324,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ]
+}
