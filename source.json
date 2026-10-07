@@ -40,11 +40,11 @@
       ],
       "versions": [
         {
-          "version": "0.1.2",
+          "version": "0.1.3",
           "date": "2026-10-07T00:00:00Z",
-          "localizedDescription": "Cross-device sync (Firebase) is now working — set a database URL + sync code in the Sync screen to keep Mac and iPhone in step.",
-          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Cadence-0.1.2.ipa",
-          "size": 5680163,
+          "localizedDescription": "Fixes a crash when deleting items (timetable classes, assignments, etc.) on macOS/iOS 26.",
+          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Cadence-0.1.3.ipa",
+          "size": 5691402,
           "minOSVersion": "17.0"
         }
       ]
