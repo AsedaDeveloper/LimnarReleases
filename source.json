@@ -25,6 +25,29 @@
           "minOSVersion": "17.0"
         }
       ]
+    },
+    {
+      "name": "Cadence",
+      "bundleIdentifier": "com.aseda.Cadence",
+      "developerName": "Yooku Anamuah-Mensah",
+      "subtitle": "Study & time manager",
+      "localizedDescription": "Your first-year study system: a full editable timetable (grid or list), assignments with deadline countdowns, smart \"start by\" planning and escalating reminders, spaced-repetition review to beat forgetting, exam tracking, and a Pomodoro focus timer with distraction tracking.",
+      "iconURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/cadence-icon.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/screenshots/cadence-today.png",
+        "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/screenshots/cadence-plan.png",
+        "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/screenshots/cadence-focus.png"
+      ],
+      "versions": [
+        {
+          "version": "0.1",
+          "date": "2026-10-07T00:00:00Z",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Cadence-0.1.0.ipa",
+          "size": 5505952,
+          "minOSVersion": "17.0"
+        }
+      ]
     }
   ]
 }
