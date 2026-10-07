@@ -40,11 +40,11 @@
       ],
       "versions": [
         {
-          "version": "0.1",
+          "version": "0.1.1",
           "date": "2026-10-07T00:00:00Z",
-          "localizedDescription": "Initial release.",
-          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Cadence-0.1.0.ipa",
-          "size": 5505952,
+          "localizedDescription": "Bigger glyph in the app icon; store icon and screenshots updated.",
+          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Cadence-0.1.1.ipa",
+          "size": 5576549,
           "minOSVersion": "17.0"
         }
       ]
