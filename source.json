@@ -40,11 +40,11 @@
       ],
       "versions": [
         {
-          "version": "0.1.1",
+          "version": "0.1.2",
           "date": "2026-10-07T00:00:00Z",
-          "localizedDescription": "Bigger glyph in the app icon; store icon and screenshots updated.",
-          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Cadence-0.1.1.ipa",
-          "size": 5576549,
+          "localizedDescription": "Cross-device sync (Firebase) is now working — set a database URL + sync code in the Sync screen to keep Mac and iPhone in step.",
+          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Cadence-0.1.2.ipa",
+          "size": 5680163,
           "minOSVersion": "17.0"
         }
       ]
