@@ -40,6 +40,14 @@
       ],
       "versions": [
         {
+          "version": "0.1.5",
+          "date": "2026-10-08T00:00:00Z",
+          "localizedDescription": "Home-screen widgets (Up Next class, Today schedule, Deadlines, Recall & Focus) and Live Activities \u2014 a Pomodoro focus timer on the Lock Screen + Dynamic Island, and a current-class countdown. Widgets share data via an app group that resolves automatically even after re-signing.",
+          "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.5.ipa",
+          "size": 6012034,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.4",
           "date": "2026-10-08T00:00:00Z",
           "localizedDescription": "Fixes duplicated courses/classes on sync; adds automatic background sync (no button needed); class-start notifications (10 min before + at start); swipe or long-press to mark an assignment Done without deleting it.",
@@ -56,11 +64,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.4",
+      "version": "0.1.5",
       "versionDate": "2026-10-08T00:00:00Z",
-      "versionDescription": "Fixes duplicated courses/classes on sync; adds automatic background sync (no button needed); class-start notifications (10 min before + at start); swipe or long-press to mark an assignment Done without deleting it.",
-      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.4.ipa",
-      "size": 5722070
+      "versionDescription": "Home-screen widgets (Up Next class, Today schedule, Deadlines, Recall & Focus) and Live Activities \u2014 a Pomodoro focus timer on the Lock Screen + Dynamic Island, and a current-class countdown. Widgets share data via an app group that resolves automatically even after re-signing.",
+      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.5.ipa",
+      "size": 6012034
     }
   ]
 }
