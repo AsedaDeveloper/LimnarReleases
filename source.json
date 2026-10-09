@@ -40,6 +40,14 @@
       ],
       "versions": [
         {
+          "version": "0.1.7",
+          "date": "2026-10-09T00:00:00Z",
+          "localizedDescription": "Fixes classes appearing twice in your timetable (and Today). Removes the stray repeats, and edited classes no longer duplicate across devices. Deleted classes also stay deleted.",
+          "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.7.ipa",
+          "size": 6056518,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.6",
           "date": "2026-10-08T00:00:00Z",
           "localizedDescription": "Focus types \u2014 pick Learning, Reading, Coding, Writing, Reviewing, Problem Sets or Commute when you start the timer; it shows on the timer, in the Live Activity, and in your logs. New \"Start Cadence Focus Session\" Siri/Shortcuts action: build a one-time Automation to also turn on a system iOS Focus when your session starts.",
@@ -72,11 +80,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.6",
-      "versionDate": "2026-10-08T00:00:00Z",
-      "versionDescription": "Focus types \u2014 pick Learning, Reading, Coding, Writing, Reviewing, Problem Sets or Commute when you start the timer; it shows on the timer, in the Live Activity, and in your logs. New \"Start Cadence Focus Session\" Siri/Shortcuts action: build a one-time Automation to also turn on a system iOS Focus when your session starts.",
-      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.6.ipa",
-      "size": 6056308
+      "version": "0.1.7",
+      "versionDate": "2026-10-09T00:00:00Z",
+      "versionDescription": "Fixes classes appearing twice in your timetable (and Today). Removes the stray repeats, and edited classes no longer duplicate across devices. Deleted classes also stay deleted.",
+      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.7.ipa",
+      "size": 6056518
     }
   ]
 }
