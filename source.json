@@ -40,6 +40,14 @@
       ],
       "versions": [
         {
+          "version": "0.1.8",
+          "date": "2026-10-13T00:00:00Z",
+          "localizedDescription": "Reliability pass. Focus timer now keeps counting when your phone is locked and notifies you when a session ends. Reminders update when you edit a class or change something on your other device, deleted items no longer notify, and overdue assignments get a next-day nudge. Today shows which class is Now / Next / Done.",
+          "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.8.ipa",
+          "size": 6070272,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.7",
           "date": "2026-10-09T00:00:00Z",
           "localizedDescription": "Fixes classes appearing twice in your timetable (and Today). Removes the stray repeats, and edited classes no longer duplicate across devices. Deleted classes also stay deleted.",
@@ -80,11 +88,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.7",
-      "versionDate": "2026-10-09T00:00:00Z",
-      "versionDescription": "Fixes classes appearing twice in your timetable (and Today). Removes the stray repeats, and edited classes no longer duplicate across devices. Deleted classes also stay deleted.",
-      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.7.ipa",
-      "size": 6056518
+      "version": "0.1.8",
+      "versionDate": "2026-10-13T00:00:00Z",
+      "versionDescription": "Reliability pass. Focus timer now keeps counting when your phone is locked and notifies you when a session ends. Reminders update when you edit a class or change something on your other device, deleted items no longer notify, and overdue assignments get a next-day nudge. Today shows which class is Now / Next / Done.",
+      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.8.ipa",
+      "size": 6070272
     }
   ]
 }
