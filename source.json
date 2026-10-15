@@ -40,6 +40,14 @@
       ],
       "versions": [
         {
+          "version": "0.1.9",
+          "date": "2026-10-15T00:00:00Z",
+          "localizedDescription": "Class recording. Record a lecture (Voice-Memos style, keeps going while locked), play it back, and get an on-device transcript \u2014 find it all under the new waveform button on Today. Plus a Live Activity that shows the recording and class time left, and a fix so the class Live Activity flips from \"starts in\" to the in-class countdown on its own.",
+          "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.9.ipa",
+          "size": 6233854,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.8",
           "date": "2026-10-13T00:00:00Z",
           "localizedDescription": "Reliability pass. Focus timer now keeps counting when your phone is locked and notifies you when a session ends. Reminders update when you edit a class or change something on your other device, deleted items no longer notify, and overdue assignments get a next-day nudge. Today shows which class is Now / Next / Done.",
@@ -88,11 +96,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.8",
-      "versionDate": "2026-10-13T00:00:00Z",
-      "versionDescription": "Reliability pass. Focus timer now keeps counting when your phone is locked and notifies you when a session ends. Reminders update when you edit a class or change something on your other device, deleted items no longer notify, and overdue assignments get a next-day nudge. Today shows which class is Now / Next / Done.",
-      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.8.ipa",
-      "size": 6070272
+      "version": "0.1.9",
+      "versionDate": "2026-10-15T00:00:00Z",
+      "versionDescription": "Class recording. Record a lecture (Voice-Memos style, keeps going while locked), play it back, and get an on-device transcript \u2014 find it all under the new waveform button on Today. Plus a Live Activity that shows the recording and class time left, and a fix so the class Live Activity flips from \"starts in\" to the in-class countdown on its own.",
+      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.9.ipa",
+      "size": 6233854
     }
   ]
 }
