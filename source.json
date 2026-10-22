@@ -40,6 +40,14 @@
       ],
       "versions": [
         {
+          "version": "0.1.14",
+          "date": "2026-10-22T00:00:00Z",
+          "localizedDescription": "Recordings get smarter, automatically. After you stop: the audio is levelled and made clearer, it is transcribed with the newer on-device speech engine (punctuation, paragraphs, tap-a-timestamp to jump), and study notes are written (overview, key points, key terms, deadlines). Transcripts are never discarded. Share the audio, transcript and notes via AirDrop, Messages, Telegram, Files and more. Older recordings upgrade themselves on first open.",
+          "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.14.ipa",
+          "size": 6420078,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.13",
           "date": "2026-10-22T00:00:00Z",
           "localizedDescription": "Class Live Activity: the progress bar now appears only once class has started and fills as the lecture goes on (it was showing before class and counting backwards). \"Starts in\" flips to \"Ends in\" on its own at class time.",
@@ -128,11 +136,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.13",
+      "version": "0.1.14",
       "versionDate": "2026-10-22T00:00:00Z",
-      "versionDescription": "Class Live Activity: the progress bar now appears only once class has started and fills as the lecture goes on (it was showing before class and counting backwards). \"Starts in\" flips to \"Ends in\" on its own at class time.",
-      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.13.ipa",
-      "size": 6277442
+      "versionDescription": "Recordings get smarter, automatically. After you stop: the audio is levelled and made clearer, it is transcribed with the newer on-device speech engine (punctuation, paragraphs, tap-a-timestamp to jump), and study notes are written (overview, key points, key terms, deadlines). Transcripts are never discarded. Share the audio, transcript and notes via AirDrop, Messages, Telegram, Files and more. Older recordings upgrade themselves on first open.",
+      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.14.ipa",
+      "size": 6420078
     }
   ]
 }
