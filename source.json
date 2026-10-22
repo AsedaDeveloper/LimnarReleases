@@ -40,6 +40,14 @@
       ],
       "versions": [
         {
+          "version": "0.1.11",
+          "date": "2026-10-22T00:00:00Z",
+          "localizedDescription": "Redesigned the in-app recording screen to match Voice Memos: a live mirrored waveform that scrolls into a center playhead, a centisecond timer, and a round record button. Cleaner recording Live Activity too.",
+          "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.11.ipa",
+          "size": 6275420,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.10",
           "date": "2026-10-19T00:00:00Z",
           "localizedDescription": "Redesigned Assignments (grouped by Overdue / This week / Upcoming / Done with a summary strip and cleaner cards) and a nicer Timetable grid (today highlighted, a live now-line, and blocks that show the course and room).",
@@ -104,11 +112,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.10",
-      "versionDate": "2026-10-19T00:00:00Z",
-      "versionDescription": "Redesigned Assignments (grouped by Overdue / This week / Upcoming / Done with a summary strip and cleaner cards) and a nicer Timetable grid (today highlighted, a live now-line, and blocks that show the course and room).",
-      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.10.ipa",
-      "size": 6270685
+      "version": "0.1.11",
+      "versionDate": "2026-10-22T00:00:00Z",
+      "versionDescription": "Redesigned the in-app recording screen to match Voice Memos: a live mirrored waveform that scrolls into a center playhead, a centisecond timer, and a round record button. Cleaner recording Live Activity too.",
+      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.11.ipa",
+      "size": 6275420
     }
   ]
 }
