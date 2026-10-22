@@ -40,6 +40,14 @@
       ],
       "versions": [
         {
+          "version": "0.1.12",
+          "date": "2026-10-22T00:00:00Z",
+          "localizedDescription": "Fixes the timetable grid: class blocks no longer run past their column or get cut off at the right edge (Friday was clipped), and the last class of the day now scrolls fully clear of the tab bar.",
+          "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.12.ipa",
+          "size": 6277039,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.11",
           "date": "2026-10-22T00:00:00Z",
           "localizedDescription": "Redesigned the in-app recording screen to match Voice Memos: a live mirrored waveform that scrolls into a center playhead, a centisecond timer, and a round record button. Cleaner recording Live Activity too.",
@@ -112,11 +120,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.1.11",
+      "version": "0.1.12",
       "versionDate": "2026-10-22T00:00:00Z",
-      "versionDescription": "Redesigned the in-app recording screen to match Voice Memos: a live mirrored waveform that scrolls into a center playhead, a centisecond timer, and a round record button. Cleaner recording Live Activity too.",
-      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.11.ipa",
-      "size": 6275420
+      "versionDescription": "Fixes the timetable grid: class blocks no longer run past their column or get cut off at the right edge (Friday was clipped), and the last class of the day now scrolls fully clear of the tab bar.",
+      "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.12.ipa",
+      "size": 6277039
     }
   ]
 }
