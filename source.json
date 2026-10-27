@@ -17,14 +17,6 @@
       ],
       "versions": [
         {
-          "version": "0.1.15",
-          "date": "2026-10-27",
-          "localizedDescription": "Transcription & notes upgrade: on-device Whisper transcription (no key), plus AI study notes with your own API key (Mistral, Groq, Gemini, OpenAI) \u2014 explained notes, key terms with definitions, revision questions. Set up via the sparkle button in Recordings.",
-          "downloadURL": "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/releases/Limnar-1.0.0.ipa",
-          "size": 7304300,
-          "minOSVersion": "17.0"
-        },
-        {
           "version": "1.0",
           "date": "2026-09-28T00:00:00Z",
           "localizedDescription": "Initial release.",
@@ -47,6 +39,14 @@
         "https://raw.githubusercontent.com/AsedaDeveloper/LimnarReleases/main/screenshots/cadence-focus-v2.png"
       ],
       "versions": [
+        {
+          "version": "0.1.15",
+          "date": "2026-10-27",
+          "localizedDescription": "Transcription & notes upgrade: on-device Whisper transcription (no key), plus AI study notes with your own API key (Mistral, Groq, Gemini, OpenAI): explained notes, key terms with definitions, revision questions. Set up via the sparkle button in Recordings.",
+          "downloadURL": "https://github.com/AsedaDeveloper/LimnarReleases/raw/main/releases/Cadence-0.1.15.ipa",
+          "size": 7304300,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.14",
           "date": "2026-10-22T00:00:00Z",
